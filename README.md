@@ -1,1 +1,1 @@
-# CityOfGrandRapids
+# CityOfGrandRapidsSocialImpact
