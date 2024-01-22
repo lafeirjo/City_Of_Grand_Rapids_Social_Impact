@@ -1,4 +1,4 @@
-# CityOfGrandRapidsSocialImpact
+# City_Of_GrandRapids_Social_Impact
 
 This project is designed around using census and environmental data pertaining to the City of Grand Rapids.
 
