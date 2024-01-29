@@ -37,6 +37,7 @@ Professor Dirk Colbry
 **In collaboration with:**
 
 Henry Fessler (City of Grand-Rapids Contact)
+
 Eric Shannon (City of Grand-Rapids Contact)
 
 
