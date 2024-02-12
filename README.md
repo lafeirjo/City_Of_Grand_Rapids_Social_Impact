@@ -40,5 +40,8 @@ Henry Fessler (City of Grand-Rapids Contact)
 
 Eric Shannon (City of Grand-Rapids Contact)
 
+**Link to Project Plan Storyboard:**
+
+https://mediaspace.msu.edu/media/City_GR-CMSE495_Plan_Presentation_Video/1_nhdhozse
 
 
