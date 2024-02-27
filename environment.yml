@@ -9,5 +9,4 @@ dependencies:
   - pandas
   - matplotlib
   - numpy
-  - datetime
-  - sklearn
+  - scikit-learn
