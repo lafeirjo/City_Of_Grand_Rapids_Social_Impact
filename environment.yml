@@ -1,0 +1,12 @@
+name: Social Impact Environment
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - python==3.9.13
+  - seaborn
+  - pandas
+  - matplotlib
+  - numpy
+  - datetime
+  - sklearn
