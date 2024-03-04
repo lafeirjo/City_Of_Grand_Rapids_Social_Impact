@@ -26,9 +26,12 @@
 4. You will be taken to the Jupyter Notebook screen, which will open in your browser, displaying all the files in your environment.
 
 5. From here you can run our demo code by following the steps below.
-6.          a. Click on ‘Demo_Code’
-            b. Click on ‘Health_Data_Sandbox.ipynd’ this is our demo code.
-            c. Once you've opened our demo code, click on run in the top left corner and select run all cells. This will run the entire demo code 
+
+          a. Click on ‘Demo_Code’
+     
+          b. Click on ‘Health_Data_Sandbox.ipynd’ this is our demo code.
+    
+          c. Once you've opened our demo code, click on run in the top left corner and select run all cells. This will run the entire demo code 
    
 **For Setting up PowerBI**
 The following set of instructions have been grabbed from the official Microsoft store website: 
