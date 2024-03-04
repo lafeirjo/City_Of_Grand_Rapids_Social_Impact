@@ -10,7 +10,12 @@
    
          b. Once you are in the correct directory run this command “git clone https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact.git”(without the quotations). This will clone our repository to the directory you changed to.
    
-2. Using an Anaconda Prompt, navigate to the “City of Grand Rapids” repository stored in your designated folder (wherever you cloned it to).
+         c. Once your repository is coloned. Run this command "cd "City_Of_Grand_Rapids_Social_Impact"" (do not paste the outer set of parenthesis). This will move you into the directory that you just cloned. 
+
+         d. From there you will run this command "cd "Install Instructions"" (do not paste the outer set of parenthesis). This will move you into our Install Instructions directory. 
+         
+   
+3. Using an Anaconda Prompt, navigate to the “City of Grand Rapids” repository stored in your designated folder (wherever you cloned it to).
 
          a. Paste the following code into your conda environment “conda env create --prefix ./envs --file environment.yml” (do not paste the quotes)
    
