@@ -8,7 +8,7 @@
 
          a. In your command line change to whatever directory you would like to clone our repository. You can use the cd command to change directories.
    
-         b. Once you are in the correct directory run this command “https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact.git”(without the quotations). This will clone our repository to the directory you changed to.
+         b. Once you are in the correct directory run this command “git clone https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact.git”(without the quotations). This will clone our repository to the directory you changed to.
    
 2. Using an Anaconda Prompt, navigate to the “City of Grand Rapids” repository stored in your designated folder (wherever you cloned it to).
 
