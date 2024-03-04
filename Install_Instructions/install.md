@@ -15,17 +15,20 @@
          d. From there you will run this command "cd "Install_Instructions"" (do not paste the outer set of parenthesis). This will move you into our Install Instructions directory. 
          
    
-3. Using an Anaconda Prompt, navigate to the “City of Grand Rapids” repository stored in your designated folder (wherever you cloned it to).
+2. Using an Anaconda Prompt, navigate to the “City of Grand Rapids” repository stored in your designated folder (wherever you cloned it to).
 
          a. Paste the following code into your conda environment “conda env create --prefix ./envs --file environment.yml” (do not paste the quotes)
    
          b. Once the terminal finishes processing the above command, paste “conda activate ./envs” (do not paste the quotes)
 
-4. After the environment finishes setting up, type “Jupyter Notebook” in the Anaconda prompt 
+3. After the environment finishes setting up, type “Jupyter Notebook” in the Anaconda prompt 
 
-5. You will be taken to the Jupyter Notebook screen, which will open in your browser, displaying all the files in your environment.
+4. You will be taken to the Jupyter Notebook screen, which will open in your browser, displaying all the files in your environment.
 
-6. From here you can run our demo code by running the 
+5. From here you can run our demo code by following the steps below.
+6.          a. Click on ‘Demo_Code’
+            b. Click on ‘Health_Data_Sandbox.ipynd’ this is our demo code.
+            c. Once you've opened our demo code, click on run in the top left corner and select run all cells. This will run the entire demo code 
    
 **For Setting up PowerBI**
 The following set of instructions have been grabbed from the official Microsoft store website: 
