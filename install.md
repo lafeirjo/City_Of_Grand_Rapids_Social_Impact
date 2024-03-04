@@ -4,9 +4,9 @@
 1. The following instructions are available through the anaconda documentation site. Click on the link below and follow the instructions for your specific device. https://docs.anaconda.com/free/anaconda/install/index.html
 
 **For setting up the Jupyter Notebook Environment**
-1. With Anaconda, clone the City of Grand Rapids GitHub using the following link: https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact/tree/main
-   a. In your command line change to whatever directory you would like to clone our repository. You can use the cd command to change directories.
-   b. Once you are in the correct directory run this command “https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact.git”  (without the quotations). This will clone our repository to the directory you changed to.
+1. With Anaconda, clone the City of Grand Rapids GitHub using the following link:    https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact/tree/main
+   \indent a. In your command line change to whatever directory you would like to clone our repository. You can use the cd command to change directories.
+   \indent b. Once you are in the correct directory run this command “https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact.git”  (without the quotations). This will clone our repository to the directory you changed to.
    
 3. Using an Anaconda Prompt, navigate to the “City of Grand Rapids” repository stored in your designated folder (wherever you cloned it to).
    a. Paste the following code into your conda environment “conda env create --prefix ./envs --file environment.yml” (do not paste the quotes)
