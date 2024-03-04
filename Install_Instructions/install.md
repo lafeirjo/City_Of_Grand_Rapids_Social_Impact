@@ -40,10 +40,6 @@ https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started
 4. Along the left side of Power BI Desktop are icons for the three Power BI Desktop views: Report, Data, and Model, from top to bottom. The current view is indicated by the yellow bar along the left, and you can change views by selecting any of the icons.
 
 5. If you're using keyboard navigation, press Ctrl + F6 to move focus to that section of buttons in the window. To learn more about accessibility and Power BI, visit our accessibility articles.
-   
-         a. Screenshot of Power BI Desktop showing the icons for Report, Data, and Model.
-   
-         b. Screenshot of Power BI Desktop showing the default view. 
 
-7. Power BI Desktop also includes the Power Query Editor, which opens in a separate window. In Power Query Editor, you can build queries and transform data, then load the refined data model into Power BI Desktop to create reports. 
+6. Power BI Desktop also includes the Power Query Editor, which opens in a separate window. In Power Query Editor, you can build queries and transform data, then load the refined data model into Power BI Desktop to create reports. 
    
