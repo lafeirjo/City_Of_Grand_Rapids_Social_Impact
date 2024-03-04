@@ -5,18 +5,22 @@
 
 **For setting up the Jupyter Notebook Environment**
 1. With Anaconda, clone the City of Grand Rapids GitHub using the following link:    https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact/tree/main
-      a. In your command line change to whatever directory you would like to clone our repository. You can use the cd command to change                   directories.
-      b. Once you are in the correct directory run this command “https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact.git”  (without            the quotations). This will clone our repository to the directory you changed to.
+
+         a. In your command line change to whatever directory you would like to clone our repository. You can use the cd command to change                   directories.
+   
+         b. Once you are in the correct directory run this command “https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact.git”                     (without the quotations). This will clone our repository to the directory you changed to.
    
 2. Using an Anaconda Prompt, navigate to the “City of Grand Rapids” repository stored in your designated folder (wherever you cloned it to).
-      a. Paste the following code into your conda environment “conda env create --prefix ./envs --file environment.yml” (do not paste the                quotes)
-      b. Once the terminal finishes processing the above command, paste “conda activate ./envs” (do not paste the quotes)
 
-3. After the environment finishes setting up, type “Jupyter Notebook” in the Anaconda prompt 
+         a. Paste the following code into your conda environment “conda env create --prefix ./envs --file environment.yml” (do not paste the                quotes)
+   
+         b. Once the terminal finishes processing the above command, paste “conda activate ./envs” (do not paste the quotes)
 
-4. You will be taken to the Jupyter Notebook screen, which will open in your browser, displaying all the files in your environment.
+4. After the environment finishes setting up, type “Jupyter Notebook” in the Anaconda prompt 
 
-5. From here you can run our demo code by running the 
+5. You will be taken to the Jupyter Notebook screen, which will open in your browser, displaying all the files in your environment.
+
+6. From here you can run our demo code by running the 
    
 **For Setting up PowerBI**
 The following set of instructions have been grabbed from the official Microsoft store website: 
@@ -32,8 +36,9 @@ https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started
 
 5. If you're using keyboard navigation, press Ctrl + F6 to move focus to that section of buttons in the window. To learn more about accessibility and Power BI, visit our accessibility articles.
    
-   a. Screenshot of Power BI Desktop showing the icons for Report, Data, and Model.
-   b. Screenshot of Power BI Desktop showing the default view. 
+         a. Screenshot of Power BI Desktop showing the icons for Report, Data, and Model.
+   
+         b. Screenshot of Power BI Desktop showing the default view. 
 
-6. Power BI Desktop also includes the Power Query Editor, which opens in a separate window. In Power Query Editor, you can build queries and transform data, then load the refined data model into Power BI Desktop to create reports. 
+7. Power BI Desktop also includes the Power Query Editor, which opens in a separate window. In Power Query Editor, you can build queries and transform data, then load the refined data model into Power BI Desktop to create reports. 
    
