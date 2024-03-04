@@ -48,6 +48,6 @@ https://mediaspace.msu.edu/media/City_GR-CMSE495_Plan_Presentation_Video/1_nhdho
 
 **Install Instructions**
 
-All of our install instructions and related demo code is in the 'Install Instructions' directory in this repository. 
+All of our install instructions and related demo code is in the 'Install Instructions' directory in this repository. For ease here is the link https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact/tree/main/Install_Instructions
 
 
