@@ -34,14 +34,20 @@ Alex Logan
 
 Professor Dirk Colbry
 
+Teaching Assistant Henry Fessler
+
 **In collaboration with:**
 
-Henry Fessler (City of Grand-Rapids Contact)
-
 Eric Shannon (City of Grand-Rapids Contact)
+
+Jonathan Oeverman (City of Grand-Rapids Contact)
 
 **Link to Project Plan Storyboard:**
 
 https://mediaspace.msu.edu/media/City_GR-CMSE495_Plan_Presentation_Video/1_nhdhozse
+
+**Install Instructions**
+
+All of our install instructions and related demo code is in the 'Install Instructions' directory in this repository. 
 
 
