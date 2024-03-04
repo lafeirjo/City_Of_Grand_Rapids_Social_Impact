@@ -31,7 +31,7 @@
      
           b. Click on ‘Health_Data_Sandbox.ipynd’ this is our demo code.
     
-          c. Once you've opened our demo code, click on run in the top left corner and select run all cells. This will run the entire demo code 
+          c. Once you've opened our demo code, click on run in the top left corner and select run all cells. This will run the entire demo code on your device. 
    
 **For Setting up PowerBI**
 The following set of instructions have been grabbed from the official Microsoft store website: 
