@@ -1,0 +1,9 @@
+This folder contains all of our PowerBI Reports. 
+
+The Metrics Dashboards folder holds PowerBI reports on each of the respective categories we divided the project up into (Census, Income, Crime, etc). 
+Each dashboard in this folder will contain all of the datasets we could find on the respective categories, in relation to the City of Grand-Rapids. 
+
+The Research Dashboards folder holds our PowerBI report(s) containing answers & visualizations to our research questions. 
+Each dashboard in the folder will contain any datasets we used in coming to our conclusions.
+
+Data from each report can be accessed by downloading the PowerBI report and opening it on your own PowerBI instance.
