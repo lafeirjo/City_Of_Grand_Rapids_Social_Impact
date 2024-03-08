@@ -1,0 +1,127 @@
+ID Race,Race,ID Ethnicity,Ethnicity,ID Year,Year,Hispanic Population Moe,Geography,ID Geography,Slug Geography,Population,share
+0,"White Alone",0,"Not Hispanic or Latino",2021,"2021",2208,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",114920,0.5808205885028657
+0,"White Alone",1,"Hispanic or Latino",2021,"2021",1172,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",11617,0.058713825066461806
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2021,"2021",1857,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",35165,0.17772847193441763
+1,"Black or African American Alone",1,"Hispanic or Latino",2021,"2021",427,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",1249,0.006312608032022966
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2021,"2021",193,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",542,0.002739338313335827
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2021,"2021",162,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",238,0.0012028828755976508
+3,"Asian Alone",0,"Not Hispanic or Latino",2021,"2021",873,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",5390,0.02724175924147621
+3,"Asian Alone",1,"Hispanic or Latino",2021,"2021",76,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",73,0.0003689514702463383
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2021,"2021",42,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",40,0.00020216518917607576
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2021,"2021",21,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",13,0.00006570368648222463
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2021,"2021",363,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",828,0.004184819415944768
+5,"Some Other Race Alone",1,"Hispanic or Latino",2021,"2021",1191,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",9169,0.04634131548888597
+6,"Two or More Races",0,"Not Hispanic or Latino",2021,"2021",1332.0724454773472,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",9829,0.04967704111029122
+6,"Two or More Races",1,"Hispanic or Latino",2021,"2021",1353.2730692657708,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",8785,0.04440052967279564
+0,"White Alone",0,"Not Hispanic or Latino",2020,"2020",2097,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",115965,0.5815201311823966
+0,"White Alone",1,"Hispanic or Latino",2020,"2020",1451,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",14744,0.07393552204676633
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2020,"2020",1544,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",34947,0.17524584162834664
+1,"Black or African American Alone",1,"Hispanic or Latino",2020,"2020",347,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",1074,0.005385699313498849
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2020,"2020",196,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",457,0.0022916802479226945
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2020,"2020",175,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",267,0.0013389029019592112
+3,"Asian Alone",0,"Not Hispanic or Latino",2020,"2020",845,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",5124,0.025694900635352052
+3,"Asian Alone",1,"Hispanic or Latino",2020,"2020",35,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",43,0.00021562855724436734
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2020,"2020",57.99999999999999,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",55,0.00027580396856837684
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2020,"2020",25,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",16,0.00008023388176534599
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2020,"2020",679,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",841,0.004217293410290999
+5,"Some Other Race Alone",1,"Hispanic or Latino",2020,"2020",1189,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",10156,0.05092845645055336
+6,"Two or More Races",0,"Not Hispanic or Latino",2020,"2020",1471.7380881121476,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",9471,0.047493443387474486
+6,"Two or More Races",1,"Hispanic or Latino",2020,"2020",1252.455588034961,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",6257,0.03137646238786061
+0,"White Alone",0,"Not Hispanic or Latino",2019,"2019",1754.9999999999998,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",117138,0.5904103305930918
+0,"White Alone",1,"Hispanic or Latino",2019,"2019",1405,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",16252,0.08191490970307609
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2019,"2019",1350,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",35534,0.1791019198491943
+1,"Black or African American Alone",1,"Hispanic or Latino",2019,"2019",371,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",1285,0.006476781871059117
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2019,"2019",156,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",442,0.0022278113517572996
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2019,"2019",202,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",307,0.0015473712330078982
+3,"Asian Alone",0,"Not Hispanic or Latino",2019,"2019",823,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",4813,0.024258950307710143
+3,"Asian Alone",1,"Hispanic or Latino",2019,"2019",20,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",17,0.00008568505199066537
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2019,"2019",43,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",49,0.0002469745616201531
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2019,"2019",33,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",24,0.00012096713222211582
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2019,"2019",109,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",265,0.0013356787516191956
+5,"Some Other Race Alone",1,"Hispanic or Latino",2019,"2019",1383,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",11089,0.05589185538379343
+6,"Two or More Races",0,"Not Hispanic or Latino",2019,"2019",773.3104163271047,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",8211,0.04138588011149137
+6,"Two or More Races",1,"Hispanic or Latino",2019,"2019",545.8003297910326,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",2975,0.01499488409836644
+0,"White Alone",0,"Not Hispanic or Latino",2018,"2018",1434,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",117072,0.594029865892704
+0,"White Alone",1,"Hispanic or Latino",2018,"2018",1352,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",16026,0.08131681897290961
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2018,"2018",1196,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",36301,0.18419330123147334
+1,"Black or African American Alone",1,"Hispanic or Latino",2018,"2018",430.00000000000006,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",1452,0.007367529087025132
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2018,"2018",141,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",438,0.0022224364601356804
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2018,"2018",199,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",344,0.001745475210700169
+3,"Asian Alone",0,"Not Hispanic or Latino",2018,"2018",790,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",4521,0.02293980647551007
+3,"Asian Alone",1,"Hispanic or Latino",2018,"2018",42,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",35,0.00017759195457705206
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2018,"2018",43,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",48,0.00024355468056281427
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2018,"2018",61,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",58,0.00029429523901340057
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2018,"2018",125,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",237,0.0012025512352788954
+5,"Some Other Race Alone",1,"Hispanic or Latino",2018,"2018",1293,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",10615,0.053861102795297364
+6,"Two or More Races",0,"Not Hispanic or Latino",2018,"2018",774.4275305023705,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",7085,0.035949685662240397
+6,"Two or More Races",1,"Hispanic or Latino",2018,"2018",503.3616989799681,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",2849,0.014455985102572039
+0,"White Alone",0,"Not Hispanic or Latino",2017,"2017",1700.0000000000002,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",116548,0.5965959407232986
+0,"White Alone",1,"Hispanic or Latino",2017,"2017",1335,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",15539,0.0795423715799442
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2017,"2017",1363,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",37281,0.1908371938266233
+1,"Black or African American Alone",1,"Hispanic or Latino",2017,"2017",510,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",1539,0.007877965754651788
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2017,"2017",221.00000000000003,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",617,0.003158352742443244
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2017,"2017",146,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",207,0.0010596094289882522
+3,"Asian Alone",0,"Not Hispanic or Latino",2017,"2017",705,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",4008,0.020516495610555144
+3,"Asian Alone",1,"Hispanic or Latino",2017,"2017",48,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",43,0.00022011210360625528
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2017,"2017",34,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",35,0.00017916101456323105
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2017,"2017",45,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",36,0.00018427990069360908
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2017,"2017",147,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",277,0.0014179314581147142
+5,"Some Other Race Alone",1,"Hispanic or Latino",2017,"2017",1167,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",9779,0.050057587468966755
+6,"Two or More Races",0,"Not Hispanic or Latino",2017,"2017",941.6055437389905,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",6606,0.033815361777277265
+6,"Two or More Races",1,"Hispanic or Latino",2017,"2017",568.7785157686602,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",2840,0.014537636610273604
+0,"White Alone",0,"Not Hispanic or Latino",2016,"2016",1545,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",115452,0.5954602423060855
+0,"White Alone",1,"Hispanic or Latino",2016,"2016",1369,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",16998,0.08766962199631745
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2016,"2016",1159,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",36742,0.18950213268553331
+1,"Black or African American Alone",1,"Hispanic or Latino",2016,"2016",442.00000000000006,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",1424,0.00734448415829839
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2016,"2016",207,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",592,0.003053324874798207
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2016,"2016",162,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",266,0.0013719331363113566
+3,"Asian Alone",0,"Not Hispanic or Latino",2016,"2016",587,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",3968,0.020465528890539333
+3,"Asian Alone",1,"Hispanic or Latino",2016,"2016",45,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",41,0.0002114633781532542
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2016,"2016",28,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",28,0.00014441401434856386
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2016,"2016",48,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",38,0.00019599044804447953
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2016,"2016",112.99999999999999,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",202,0.0010418439606574965
+5,"Some Other Race Alone",1,"Hispanic or Latino",2016,"2016",908.9999999999999,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",8943,0.046124804654257376
+6,"Two or More Races",0,"Not Hispanic or Latino",2016,"2016",844.8579762303247,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",6624,0.03416422968017453
+6,"Two or More Races",1,"Hispanic or Latino",2016,"2016",497.94075952868127,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",2569,0.013249985816480734
+0,"White Alone",0,"Not Hispanic or Latino",2015,"2015",1360,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",113556,0.5901588225511392
+0,"White Alone",1,"Hispanic or Latino",2015,"2015",1269,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",18045,0.09378118243805089
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2015,"2015",1220,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",37754,0.1962102943622152
+1,"Black or African American Alone",1,"Hispanic or Latino",2015,"2015",508,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",1582,0.008221769499417927
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2015,"2015",191,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",606,0.0031494262431398636
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2015,"2015",161,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",209,0.0010861882587726592
+3,"Asian Alone",0,"Not Hispanic or Latino",2015,"2015",569,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",3733,0.0194006735406619
+3,"Asian Alone",1,"Hispanic or Latino",2015,"2015",46,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",37,0.00019229170131382007
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2015,"2015",28.999999999999996,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",26,0.0001351238982205222
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2015,"2015",61,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",50,0.0002598536504240812
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2015,"2015",95,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",187,0.0009718526525860636
+5,"Some Other Race Alone",1,"Hispanic or Latino",2015,"2015",946.0000000000001,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",7815,0.04061512556128388
+6,"Two or More Races",0,"Not Hispanic or Latino",2015,"2015",822.7277800098889,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",6507,0.03381735406618992
+6,"Two or More Races",1,"Hispanic or Latino",2015,"2015",451.40225963103023,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",2309,0.012000041576584068
+0,"White Alone",0,"Not Hispanic or Latino",2014,"2014",1657,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",111137,0.5826653175281405
+0,"White Alone",1,"Hispanic or Latino",2014,"2014",1489,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",19276,0.10105956306785713
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2014,"2014",1399,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",38641,0.20258573233580968
+1,"Black or African American Alone",1,"Hispanic or Latino",2014,"2014",514,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",1552,0.008136773287057184
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2014,"2014",182,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",690,0.003617508742312794
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2014,"2014",174,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",208,0.0010904953889870452
+3,"Asian Alone",0,"Not Hispanic or Latino",2014,"2014",550,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",3658,0.019178039100551016
+3,"Asian Alone",1,"Hispanic or Latino",2014,"2014",47,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",36,0.00018873958655545012
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2014,"2014",25,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",13,0.00006815596181169032
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2014,"2014",54,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",34,0.00017825405396903622
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2014,"2014",209,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",383,0.0020079794902982608
+5,"Some Other Race Alone",1,"Hispanic or Latino",2014,"2014",912.9999999999999,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",6647,0.03484866755094658
+6,"Two or More Races",0,"Not Hispanic or Latino",2014,"2014",854.8496943907742,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",6180,0.03240029569201894
+6,"Two or More Races",1,"Hispanic or Latino",2014,"2014",485.07731342539614,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",2284,0.011974478213684669
+0,"White Alone",0,"Not Hispanic or Latino",2013,"2013",1405,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",110221,0.5809207578991752
+0,"White Alone",1,"Hispanic or Latino",2013,"2013",1569,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",21354,0.112546446359396
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2013,"2013",1433,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",38152,0.2010804543178644
+1,"Black or African American Alone",1,"Hispanic or Latino",2013,"2013",380,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",1133,0.005971486547026115
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2013,"2013",241,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",763,0.004021398266002583
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2013,"2013",82,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",119,0.0006271905552481092
+3,"Asian Alone",0,"Not Hispanic or Latino",2013,"2013",594,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",3594,0.018942208870266423
+3,"Asian Alone",1,"Hispanic or Latino",2013,"2013",15.000000000000002,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",10,0.0000527050886763117
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2013,"2013",38,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",21,0.00011068068622025456
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2013,"2013",24,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",0,0
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2013,"2013",279,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",485,0.0025561968008011174
+5,"Some Other Race Alone",1,"Hispanic or Latino",2013,"2013",1026,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",5693,0.03000500698342425
+6,"Two or More Races",0,"Not Hispanic or Latino",2013,"2013",719.7006322075868,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",6090,0.032097399003873824
+6,"Two or More Races",1,"Hispanic or Latino",2013,"2013",435.0126434944161,"Grand Rapids, MI","16000US2634000","grand-rapids-mi",2100,0.011068068622025456
