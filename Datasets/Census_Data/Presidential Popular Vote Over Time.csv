@@ -1,0 +1,91 @@
+Year,Candidate ID,Candidate,Party,Candidate Votes,Total Votes,Party ID,Share
+1976,"P60000221","Peter Miguel Camejo","Socialist Workers",1804,3651590,"Socialist Workers",0.049403136715786826
+1976,"P60000247","Jimmy Carter","Democratic",1696714,3651590,"Democratic",46.46507411839774
+1976,"P60000338","Gerald R Ford","Republican",1893742,3651590,"Republican",51.860751070081804
+1976,"P60000452","Lyndon H Larouche Jr.","U.s. Labor",1366,3651590,"U.s. Labor",0.03740836183689845
+1976,"P60000494","Eugene J Mccarthy","Independent",47905,3651590,"Independent",1.3118942707149488
+1976,"P99999999","Other","Human Rights",3504,3651590,"Human Rights",0.095958199031107
+1976,"P99999999","Other","Libertarian",5407,3651590,"Libertarian",0.1480724834934919
+1976,"P99999999","Other","Socialist Labor",1148,3651590,"Socialist Labor",0.03143835972822798
+1980,"P00000562","Edward E Clark","Libertarian",41597,3909725,"Libertarian",1.0639367218922047
+1980,"P00000786","John B Anderson","Independent",275223,3909725,"Independent",7.039446508386139
+1980,"P00002659","Barry Commoner","Citizens",11930,3909725,"Citizens",0.30513655052465327
+1980,"P60000247","Jimmy Carter","Democratic",1661532,3909725,"Democratic",42.497413500949555
+1980,"P60000668","Ronald Reagan","Republican",1915225,3909725,"Republican",48.986181892588355
+1980,"P60001393","Gus Hall","Communist Party Use",3262,3909725,"Communist Party Use",0.08343297802275096
+1980,"P99999999","Other","Other",956,3909725,"Other",0.02445184763634271
+1984,"P40000267","Walter F Mondale","Democratic",1529638,3801658,"Democratic",40.236075943706666
+1984,"P40000846","David Bergland","Libertarian",10055,3801658,"Libertarian",0.2644898620549245
+1984,"P40000879","Sonia Johnson","Citizens",1191,3801658,"Citizens",0.03132843617179662
+1984,"P40001034","Dennis L Serrette","Alliance",665,3801658,"Alliance",0.01749236780373195
+1984,"P40001323","Mel Mason","Socialist Workers",1049,3801658,"Socialist Workers",0.027593223798668895
+1984,"P40001356","Larry Holmes","Workers World",1416,3801658,"Workers World",0.037246906481329986
+1984,"P60000452","Lyndon H Larouche Jr.","Independent",3862,3801658,"Independent",0.10158725482407938
+1984,"P60000668","Ronald Reagan","Republican",2251571,3801658,"Republican",59.22602717025045
+1984,"P60001393","Gus Hall","Communist Party Use",1048,3801658,"Communist Party Use",0.027566919486182083
+1984,"P99999999","Other","Other",602,3801658,"Other",0.015835196117062605
+1984,"P99999999","Other","Workers League",561,3801658,"Workers League",0.014756719305103196
+1988,"P00000455","George Bush","Republican",1965486,3669163,"Republican",53.56769377648254
+1988,"P80000748","Ron Paul","Libertarian",18336,3669163,"Libertarian",0.4997325003004772
+1988,"P80000789","Michael S Dukakis","Democratic",1675783,3669163,"Democratic",45.67207834593339
+1988,"P99999999","Other","Other",7600,3669163,"Other",0.20713170823972663
+1988,"P99999999","Other","Workers League",1958,3669163,"Workers League",0.05336366904386641
+1992,"P00000455","George Bush","Republican",1554940,4274673,"Republican",36.375647915056895
+1992,"P20000642","William Jefferson Clinton","Democratic",1871182,4274673,"Democratic",43.773687484399396
+1992,"P20001434","Howard Phillips","Tisch Independent Citizens",8263,4274673,"Tisch Independent Citizens",0.19330133556414725
+1992,"P20001558","Ross Perot","Independent",824813,4274673,"Independent",19.29534726983795
+1992,"P20001681","John Samuel Hagelin","Natural Law",2954,4274673,"Natural Law",0.06910470110813154
+1992,"P20001897","Helen Halyard","Workers World",1432,4274673,"Workers World",0.0334996384518769
+1992,"P80002439","An V Marrou","Libertarian",10175,4274673,"Libertarian",0.23802990310603875
+1992,"P99999999","Other","Other",914,4274673,"Other",0.021381752475569477
+1996,"P00000489","Robert J Dole","Republican",1481212,3848844,"Republican",38.48459433533809
+1996,"P20000642","William Jefferson Clinton","Democratic",1989653,3848844,"Democratic",51.69482057469723
+1996,"P20001558","Ross Perot","Reform Party",336670,3848844,"Reform Party",8.747301787237935
+1996,"P20001681","John Samuel Hagelin","Natural Law",4254,3848844,"Natural Law",0.1105266932097014
+1996,"P20004677","Jerome S White","Socialist Equality Party",1554,3848844,"Socialist Equality Party",0.040375759578720256
+1996,"P60003043","Harry Browne","Libertarian",27670,3848844,"Libertarian",0.7189171605812031
+1996,"P60004405","Monica Gail Moorehead","Workers World",3153,3848844,"Workers World",0.08192070138462354
+1996,"P99999999","Other","Other",4678,3848844,"Other",0.12154298797249251
+2000,"P00003335","George W Bush","Republican",1953139,4232501,"Republican",46.14621473214064
+2000,"P20000527","Ralph Nader","Green",84165,4232501,"Green",1.988540581561587
+2000,"P20001434","Howard Phillips","U.s. Taxpayers Party",3791,4232501,"U.s. Taxpayers Party",0.08956879159626896
+2000,"P20001681","John Samuel Hagelin","Natural Law",2426,4232501,"Natural Law",0.057318356215391324
+2000,"P60003043","Harry Browne","Libertarian",16711,4232501,"Libertarian",0.39482565981673723
+2000,"P80000912","Al Gore","Democratic",2170418,4232501,"Democratic",51.27979887069135
+2000,"P99999999","Other","Other",1851,4232501,"Other",0.04373300797802529
+2004,"P00003335","George W Bush","Republican",2313746,4839252,"Republican",47.812058557810175
+2004,"P20000527","Ralph Nader","No Party Affiliation",24035,4839252,"No Party Affiliation",0.49666766682123603
+2004,"P40002537","Michael Badnarik","Libertarian",10552,4839252,"Libertarian",0.2180502275971576
+2004,"P40003097","David Keith Cobb","Green",5325,4839252,"Green",0.11003766697828508
+2004,"P40003261","Michael Anthony Peroutka","U.s. Taxpayers Party",4980,4839252,"U.s. Taxpayers Party",0.10290846601912858
+2004,"P40003337","Walter F Brown","Natural Law",1431,4839252,"Natural Law",0.029570685717544776
+2004,"P80000235","John F Kerry","Democratic",2479183,4839252,"Democratic",51.23070672905647
+2008,"P20000527","Ralph Nader","Natural Law",33085,5001596,"Natural Law",0.6614888527581996
+2008,"P80002801","John S. Mccain","Republican",2048639,5001596,"Republican",40.959705661952704
+2008,"P80003338","Barack Obama","Democratic",2872579,5001596,"Democratic",57.43324730745945
+2008,"P80004930","Cynthia Mckinney","Green",8892,5001596,"Green",0.1777832515860937
+2008,"P80005580","Bob Barr","Libertarian",23716,5001596,"Libertarian",0.47416864536839837
+2008,"P99999999","Other","U.s. Taxpayers Party",14685,5001596,"U.s. Taxpayers Party",0.2936062808751447
+2012,"P20003984","Jill Stein","Green",21897,4730961,"Green",0.46284465249237944
+2012,"P20004263","Ross C Anderson","Natural Law",5147,4730961,"Natural Law",0.10879396384793703
+2012,"P80003338","Barack Obama","Democratic",2564569,4730961,"Democratic",54.20820421051875
+2012,"P80003353","Mitt Romney","Republican",2115256,4730961,"Republican",44.710916027420225
+2012,"P99999999","Other","Other",7973,4730961,"Other",0.1685281277947546
+2012,"P99999999","Other","U.s. Taxpayers Party",16119,4730961,"U.s. Taxpayers Party",0.34071301792595626
+2016,"P00003392","Hillary Rodham Clinton","Democratic",2268839,4799284,"Democratic",47.27453095086684
+2016,"P20002671","Gary Johnson","Libertarian",172136,4799284,"Libertarian",3.586701683001048
+2016,"P20003984","Jill Stein","Green",51463,4799284,"Green",1.0723057856130207
+2016,"P60021102","Darrell Lane Castle","U.s. Taxpayers Party",16139,4799284,"U.s. Taxpayers Party",0.336279328333143
+2016,"P80001571","Donald J. Trump","Republican",2279543,4799284,"Republican",47.49756421999615
+2016,"P99999999","Other","Natural Law",2209,4799284,"Natural Law",0.046027699131787156
+2016,"P99999999","Other","Other",8955,4799284,"Other",0.18659033305801448
+2020,"P00012211","Howie Hawkins","Green",13718,5539302,"Green",0.24764853044661586
+2020,"P00013524","Jo Jorgensen","Libertarian",60381,5539302,"Libertarian",1.0900470853547974
+2020,"P00014209","Don Blankenship","Us Taxpayers Party",7235,5539302,"Us Taxpayers Party",0.13061212405461917
+2020,"P60016342","Roque Rocky De La Fuente","Natural Law",2986,5539302,"Natural Law",0.05390570869759402
+2020,"P80000722","Joseph R Biden Jr.","Democratic",2804040,5539302,"Democratic",50.62081829082437
+2020,"P80001571","Donald J. Trump","Republican",2649852,5539302,"Republican",47.83729069113762
+2020,"P99999999","Other","American Solidarity Party",963,5539302,"American Solidarity Party",0.017384861847214685
+2020,"P99999999","Other","Becoming One Nation",89,5539302,"Becoming One Nation",0.0016067006276242026
+2020,"P99999999","Other","Non-affiliated",5,5539302,"Non-affiliated",0.00009026408020360689
+2020,"P99999999","Other","Other",33,5539302,"Other",0.0005957429293438054
