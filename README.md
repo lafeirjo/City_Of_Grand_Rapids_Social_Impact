@@ -52,4 +52,9 @@ All of our install instructions and related demo code is in the 'Install Instruc
 
 https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact/tree/main/Install_Instructions
 
+**Link to Minimum Viable Product Presentation and Demo:**
+
+https://mediaspace.msu.edu/media/City_Of_GrandRapids-CMSE495_MVP_Presentation_Video/1_0sno60na
+
+
 
