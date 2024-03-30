@@ -10,7 +10,7 @@
    
          b. Once you are in the correct directory run this command “git clone https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact.git” (without the quotations). This will clone our repository to the directory you changed to.
    
-         c. Once your repository is coloned. Run this command "cd "City_Of_Grand_Rapids_Social_Impact"" (do not paste the outer set of parenthesis). This will move you into the directory that you just cloned. 
+         c. Once your repository is cloned. Run this command "cd "City_Of_Grand_Rapids_Social_Impact"" (do not paste the outer set of parenthesis). This will move you into the directory that you just cloned. 
          
    
 2. Setting up the correct environment.
