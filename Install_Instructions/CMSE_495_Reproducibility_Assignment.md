@@ -18,19 +18,19 @@ If the required software and dependencies are needed to be installed, I point yo
 In terms of where the raw data was found, the website can be found here: https://aqicn.org/historical/#!city:usa/michigan/grand-rapids
 If you scroll down, you will come across a selection for the type of pollutant followed by a button stating "Download this Data (CSV Format)." Select this option to access the raw data.
 
-Alternatively, the raw data is available in our Git Repository through "Datasets" -> "Environmental_Data" -> "airQuality.csv"
+Alternatively, the raw data is available in our Git Repository through "Datasets" -> "Environmental_Data" -> "Raw_Data" -> "airQuality.csv"
 If you want to run through the cleaning process, we recommend downloading the raw file from our Repository. This will ensure that the file name is correct. If you want to download the raw data from the website you can, just make sure you rename the file to "airQuality.csv". This is needed for the Jupyter Notebook to run error free.
 
 **Cleaning and Manipulation**
 
-*Note that this step is optional, as the cleaned data is already accessible through our Git Repository by navigating to "Datasets" -> "Environmental_Data" -> "gr_air_quality_2.csv" and downloading the csv from there.
+*Note that this step is optional, as the cleaned data is already accessible through our Git Repository by navigating to "Datasets" -> "Environmental_Data" -> "Cleaned_Data" -> "gr_air_quality_2.csv" and downloading the csv from there.
 
 If you would like to follow along in the process, you will need 2 files:
 
 1. The raw data csv found in the introduction
 2. The Jupyter Notebook containing the code for cleaning.
 
-To find this Jupyter Notebook, go into the Git Repository and go under "Datasets" -> "Environmental_Data" -> "Air_Quality.ipynb" and download it.
+To find this Jupyter Notebook, go into the Git Repository and go under "Datasets" -> "Environmental_Data" -> "Raw_Data" -> "Air_Quality.ipynb" and download it.
 
 From here, as long as the 2 files are located in the same directory, you can hit "Run All" on the notebook and it will export the same "gr_air_quality_2.csv" csv file from our Git Repository.
 
