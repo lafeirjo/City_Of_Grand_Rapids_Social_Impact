@@ -60,5 +60,8 @@ All of our install instructions and related demo code is in the 'Install Instruc
 
 [Minimal Viable Product Presentation](https://mediaspace.msu.edu/media/City_Of_GrandRapids-CMSE495_MVP_Presentation_Video/1_0sno60na)
 
+**Reproducibility Instructions**
+[Reproducibility Instructions](/Install_Instructions/Reproducibility.md)
+
 
 
