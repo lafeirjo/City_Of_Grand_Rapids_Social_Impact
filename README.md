@@ -9,6 +9,10 @@ providing a good measure of effect of governmental policy on Grand Rapids.
 
 The repository will host all of our visualizations, code, and datasets for our project.
 
+Within the repository, we have everything somebody may need to run through our full project,
+including instructions for installing all the proper software, our final product PowerBI dashboards,
+and instructions regarding reproducibility of the whole project.
+
 The datasets will contain information in relation to, but are not limited to:
 
 - Health and Wellness
