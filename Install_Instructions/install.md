@@ -71,4 +71,5 @@ The following set of instructions have been grabbed from the official Microsoft 
    d. Since you have already downloaded PowerBI to your device, you can navigate to where our demo PowerBI dashboard downloaded on your local device. Click on our PowerBI dashboard "Grand_Rapids_Health_Dashboard.pbix" This will open the dashboard in PowerBI on your local device. 
 
    **Next Steps**
+   
 Now that the install instructions are done, the next step in the process is reproducibility, which the instructions for can be found here: [Reproducibility Instructions](https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact/blob/main/Install_Instructions/Reproducibility.md)
