@@ -16,6 +16,7 @@ This visual is one of the foundation figures within the "Air Quality Index - Yea
 If the required software and dependencies are needed to be installed, I point you to our Git Repository and go to [Install Instructions](https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact/blob/main/Install_Instructions/install.md). This markdown file contains all instructions for everything needed to run our project.
 
 In terms of where the raw data was found, the website can be found here: [Raw Air Quality Data](https://aqicn.org/historical/#!city:usa/michigan/grand-rapids)
+
 If you scroll down, you will come across a selection for the type of pollutant followed by a button stating "Download this Data (CSV Format)." Select this option to access the raw data.
 
 Alternatively, the raw data is available in our Git Repository through "Datasets" -> "Environmental_Data" -> "Raw_Data" -> "airQuality.csv"
