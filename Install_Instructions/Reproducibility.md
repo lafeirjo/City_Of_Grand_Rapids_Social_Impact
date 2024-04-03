@@ -2,7 +2,7 @@
 
 **Introduction**
 
-Git Repository Link: https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact/tree/main
+Git Repository Link: [GitHub Repository](https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact/tree/main)
 
 For this assignment, we will be going over how to reproduce one of the visuals that is contained within the environmental metrics dashboard, specifically regarding the air quality data. There are a few primary steps that will be discusssed:
 
@@ -13,7 +13,7 @@ For this assignment, we will be going over how to reproduce one of the visuals t
 
 This visual is one of the foundation figures within the "Air Quality Index - Year by Year" dashboard in our "Environmental_Metrics" report. The visual shows the minimum, average, and maximum values of AQI for the City of Grand Rapids over the time span from 2014-2024.
 
-If the required software and dependencies are needed to be installed, I point you to our Git Repository and go into "Install_Instructions" -> "Install.md." This markdown file contains all instructions for everything needed to run our project.
+If the required software and dependencies are needed to be installed, I point you to our Git Repository and go into []() This markdown file contains all instructions for everything needed to run our project.
 
 In terms of where the raw data was found, the website can be found here: https://aqicn.org/historical/#!city:usa/michigan/grand-rapids
 If you scroll down, you will come across a selection for the type of pollutant followed by a button stating "Download this Data (CSV Format)." Select this option to access the raw data.
