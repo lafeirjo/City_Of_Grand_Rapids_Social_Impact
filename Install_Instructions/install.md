@@ -1,10 +1,10 @@
 ## City of Grand Rapids Install Instructions
 
 **For installing anaconda**
-1. The following instructions are available through the anaconda documentation site. Click on the link below and follow the instructions for your specific device. https://docs.anaconda.com/free/anaconda/install/index.html
+1. The following instructions are available through the anaconda documentation site. Click on the link below and follow the instructions for your specific device. [Anaconda Install](https://docs.anaconda.com/free/anaconda/install/index.html)
 
 **For setting up the Jupyter Notebook Environment**
-1. With Anaconda, clone the City of Grand Rapids GitHub using the following link:    https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact/tree/main
+1. With Anaconda, clone the City of Grand Rapids GitHub using the following link:    [GitHub Repository](https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact/tree/main)
 
          a. In your command line change to whatever directory you would like to clone our repository. You can use the cd command to change directories.
    
@@ -35,7 +35,7 @@
    
 **For Setting up PowerBI**
 The following set of instructions have been grabbed from the official Microsoft store website: 
-https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started
+[Power BI Install](https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started)
 
 1. To download Power BI Desktop, go to the Power BI Desktop download page (linked above) and select Download Free. Or for download options, select See download or language options. You can also download Power BI Desktop from the Power BI service. Select the Download icon in the top menu bar, and then select Power BI Desktop.
 
