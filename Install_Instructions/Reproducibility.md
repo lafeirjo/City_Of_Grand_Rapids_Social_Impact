@@ -37,7 +37,7 @@ From here, as long as the 2 files are located in the same directory, you can hit
 
 **Importing Data into Power BI**
 
-Now that we have our cleaned data from the previous section, we can change focus into Power BI, which is where all our visuals are being created and stored in dashboards.
+Now we can change focus into Power BI, which is where all our visuals are being created and stored in dashboards.
 
 From here, we will start by downloading the "Grand_Rapids_Environment_Dashboard" PBI file, which can be found here: [Environment_Dashboard](https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact/blob/main/PowerBI/Metrics_Dashboards/Grand_Rapids_Environment_Dashboard.pbix)
 
@@ -47,7 +47,7 @@ When opening this file, it will open right onto one of the dashboards. If you na
 
 Alternatively, if for some reason this file ends up lost, deleted, or corrupted in any way, we plan to have full descriptions on how to create each visual within the Power BI reports. For now, we will just focus on how the "Year by Year Air Quality Summary" visual was made in the steps below, starting with how to import the cleaned data from the previous section.
 
-1. To start from scratch, we will begin by opening a blank Power BI report. This can be done by just launching the Power BI desktop app and selecting "Report" under the "New" tab.
+1. We will begin by opening a blank Power BI report. This can be done by just launching the Power BI desktop app and selecting "Report" under the "New" tab.
 
 2. This will direct to a blank dashboard, from here we can now import our cleaned data by navigating to the top ribbon and selecting "Get Data." Now select the "Text/CSV" option, which will open a file explorer tab. Here, navigate to wherever the cleaned "gr_air_quality_2.csv" file is and select to import into the report. It will present a pop-up showing a preview of the data, where you will select the "Load" button to complete the import.
 
