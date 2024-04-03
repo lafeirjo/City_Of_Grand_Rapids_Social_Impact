@@ -11,7 +11,7 @@ For this assignment, we will be going over how to reproduce one of the visuals t
 3. How we imported the data into Power BI
 4. How we created the Year by Year Air Quality Index Summary visual.
 
-This visual is one of the foundation figures within the "Air Quality Index - Year by Year" dashboard in our "Environmental_Metrics" report. The visual shows the minimum, average, and maximum values of AQI for the City of Grand Rapids over the time span from 2014-2024.
+This visual is one of the foundation figures within the "Air Quality Index - Year by Year" dashboard in our "Grand_Rapids_Environment_Dashboard" report. The visual shows the minimum, average, and maximum values of AQI for the City of Grand Rapids over the time span from 2014-2024.
 
 If the required software and dependencies are needed to be installed, I point you to our Git Repository and go to [Install Instructions](https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact/blob/main/Install_Instructions/install.md). This markdown file contains all instructions for everything needed to run our project.
 
