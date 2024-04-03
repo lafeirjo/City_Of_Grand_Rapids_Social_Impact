@@ -13,9 +13,9 @@ For this assignment, we will be going over how to reproduce one of the visuals t
 
 This visual is one of the foundation figures within the "Air Quality Index - Year by Year" dashboard in our "Environmental_Metrics" report. The visual shows the minimum, average, and maximum values of AQI for the City of Grand Rapids over the time span from 2014-2024.
 
-If the required software and dependencies are needed to be installed, I point you to our Git Repository and go into []() This markdown file contains all instructions for everything needed to run our project.
+If the required software and dependencies are needed to be installed, I point you to our Git Repository and go to [Install Instructions](https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact/blob/main/Install_Instructions/install.md). This markdown file contains all instructions for everything needed to run our project.
 
-In terms of where the raw data was found, the website can be found here: https://aqicn.org/historical/#!city:usa/michigan/grand-rapids
+In terms of where the raw data was found, the website can be found here: [Raw Air Quality Data](https://aqicn.org/historical/#!city:usa/michigan/grand-rapids)
 If you scroll down, you will come across a selection for the type of pollutant followed by a button stating "Download this Data (CSV Format)." Select this option to access the raw data.
 
 Alternatively, the raw data is available in our Git Repository through "Datasets" -> "Environmental_Data" -> "Raw_Data" -> "airQuality.csv"
@@ -30,7 +30,7 @@ If you would like to follow along in the process, you will need 2 files:
 1. The raw data csv found in the introduction
 2. The Jupyter Notebook containing the code for cleaning.
 
-To find this Jupyter Notebook, go into the Git Repository and go under "Datasets" -> "Environmental_Data" -> "Raw_Data" -> "Air_Quality.ipynb" and download it.
+The Jupyter Notebook can be found here for download: [Air_Quality.ipynb](https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact/blob/main/Datasets/Environmental_Data/Raw_Data/Air_Quality.ipynb)
 
 From here, as long as the 2 files are located in the same directory, you can hit "Run All" on the notebook and it will export the same "gr_air_quality_2.csv" csv file from our Git Repository.
 
@@ -38,9 +38,9 @@ From here, as long as the 2 files are located in the same directory, you can hit
 
 Now that we have our cleaned data from the previous section, we can change focus into Power BI, which is where all our visuals are being created and stored in dashboards.
 
-From here, we will start by downloading the "Environmental_Metrics" PBI file, which can be found in our Git Repository under "PowerBI" -> "Metrics_Dashboards" -> "Environmental_Metrics.pbix"
+From here, we will start by downloading the "Grand_Rapids_Environment_Dashboard" PBI file, which can be found here: [Environment_Dashboard](https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact/blob/main/PowerBI/Metrics_Dashboards/Grand_Rapids_Environment_Dashboard.pbix)
 
-When using the downloaded "Environmental_Metrics" PBI file, everything will already be preloaded into the file, meaning that all data files used to create the visuals are already imported and the visuals already created. 
+When using the downloaded PBI file, everything will already be preloaded into the file, meaning that all data files used to create the visuals are already imported and the visuals already created. 
 
 When opening this file, it will open right onto one of the dashboards. If you navigate to the "Air Quality Index - Year by Year" dashboard, it will show what the desired visual is meant to look like in the top left of the dashboard.
 
