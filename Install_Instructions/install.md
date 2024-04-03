@@ -6,24 +6,26 @@
 **For setting up the Jupyter Notebook Environment**
 1. With Anaconda, clone the City of Grand Rapids GitHub using the following link:    [GitHub Repository](https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact/tree/main)
 
-         a. In your command line change to whatever directory you would like to clone our repository. You can use the cd command to change directories.
+   a. In your command line change to whatever directory you would like to clone our repository. You can use the cd command to change directories.
    
-         b. Once you are in the correct directory run this command “git clone https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact.git” (without the quotations). This will clone our repository to the directory you changed to.
+   b. Once you are in the correct directory, copy and paste the code below to clone our repository to the directory you changed to.
    
-         c. Once your repository is cloned. Run this command "cd "City_Of_Grand_Rapids_Social_Impact"" (do not paste the outer set of parenthesis). This will move you into the directory that you just cloned. 
+            git clone https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact.git
+   
+   c. Once your repository is cloned. Run this command "cd "City_Of_Grand_Rapids_Social_Impact"" (do not paste the outer set of parenthesis). This will move you into the directory that you just cloned. 
          
    
-2. Setting up the correct environment.
+3. Setting up the correct environment.
 
          a. Paste the following code into your conda environment “conda env create --prefix ./envs --file environment.yml” (do not paste the quotes)
    
          b. Once the terminal finishes processing the above command, paste “conda activate ./envs” (do not paste the quotes)
 
-3. After the environment finishes setting up, type “Jupyter Notebook” in the Anaconda prompt.
+4. After the environment finishes setting up, type “Jupyter Notebook” in the Anaconda prompt.
 
-4. You will be taken to the Jupyter Notebook screen, which will open in your browser, displaying all the files in your environment.
+5. You will be taken to the Jupyter Notebook screen, which will open in your browser, displaying all the files in your environment.
 
-5. From here you can run our demo code by following the steps below.
+6. From here you can run our demo code by following the steps below.
 
           a. Click on ‘Install_Instructions’.
 
