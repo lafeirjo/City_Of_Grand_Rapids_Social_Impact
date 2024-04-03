@@ -19,23 +19,29 @@
    
 3. Setting up the correct environment.
 
-         a. Paste the following code into your conda environment “conda env create --prefix ./envs --file environment.yml” (do not paste the quotes)
+   a. Paste the following code below into your conda environment
+
+         conda env create --prefix ./envs --file environment.yml
    
-         b. Once the terminal finishes processing the above command, paste “conda activate ./envs” (do not paste the quotes)
+   b. Once the terminal finishes processing the above command, paste the below code
 
-4. After the environment finishes setting up, type “Jupyter Notebook” in the Anaconda prompt.
+         conda activate ./envs
 
-5. You will be taken to the Jupyter Notebook screen, which will open in your browser, displaying all the files in your environment.
+5. After the environment finishes setting up, copy and paste the following cell to open a JupyterLab tab
 
-6. From here you can run our demo code by following the steps below.
+        Jupyter Notebook
 
-          a. Click on ‘Install_Instructions’.
+7. You will be taken to the Jupyter Notebook screen, which will open in your browser, displaying all the files in your environment.
 
-          b. Click on ‘Demo_Code’.
+8. From here you can run our demo code by following the steps below.
+
+   a. Click on ‘Install_Instructions’.
+
+   b. Click on ‘Demo_Code’.
      
-          c. Click on ‘Health_Data_Sandbox.ipynd’ this is our demo code.
+   c. Click on ‘Health_Data_Sandbox.ipynd’ this is our demo code.
     
-          d. Once you've opened our demo code, click on run in the top left corner and select run all cells. This will run the entire demo code on your device.
+   d. Once you've opened our demo code, click on run in the top left corner and select run all cells. This will run the entire demo code on your device.
    
 **For Setting up PowerBI**
 The following set of instructions have been grabbed from the official Microsoft store website: 
