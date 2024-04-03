@@ -62,11 +62,12 @@ The following set of instructions have been grabbed from the official Microsoft 
 **Opening up our demo PowerBI dashboard**
 1. Navigate back to our demo code folder. If you have already exited out of the jupyter notebook from before, please follow steps 1 through 3 under "For setting up the Jupyter Notebook Environment." This will get you back to our Demo repository.
 
-          a. Click on ‘Demo_Code’
+   a. Click on ‘Demo_Code’
 
-          b. Click on the square box to the left of Grand_Rapids_Health_Dashboard.pbix. This will highlight that line and put a check mark in the box that you clicked.
+   b. Click on the square box to the left of Grand_Rapids_Health_Dashboard.pbix. This will highlight that line and put a check mark in the box that you clicked.
 
-          c. Now that this file is highlighted click the box in the upper left corner that says "Download." This will download our PowerBI to your local device.
+   c. Now that this file is highlighted click the box in the upper left corner that says "Download." This will download our PowerBI to your local device.
 
-          d. Since you have already downloaded PowerBI to your device, you can navigate to where our demo PowerBI dashboard downloaded on your local device. Click on our PowerBI dashboard "Grand_Rapids_Health_Dashboard.pbix" This will open the dashboard in PowerBI on your local device. 
+   d. Since you have already downloaded PowerBI to your device, you can navigate to where our demo PowerBI dashboard downloaded on your local device. Click on our PowerBI dashboard                   
+      "Grand_Rapids_Health_Dashboard.pbix" This will open the dashboard in PowerBI on your local device. 
    
