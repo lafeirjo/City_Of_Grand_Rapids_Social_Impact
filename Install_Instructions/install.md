@@ -68,6 +68,5 @@ The following set of instructions have been grabbed from the official Microsoft 
 
    c. Now that this file is highlighted click the box in the upper left corner that says "Download." This will download our PowerBI to your local device.
 
-   d. Since you have already downloaded PowerBI to your device, you can navigate to where our demo PowerBI dashboard downloaded on your local device. Click on our PowerBI dashboard                   
-      "Grand_Rapids_Health_Dashboard.pbix" This will open the dashboard in PowerBI on your local device. 
+   d. Since you have already downloaded PowerBI to your device, you can navigate to where our demo PowerBI dashboard downloaded on your local device. Click on our PowerBI dashboard "Grand_Rapids_Health_Dashboard.pbix" This will open the dashboard in PowerBI on your local device. 
    
