@@ -19,12 +19,12 @@ In terms of where the raw data was found, the website can be found here: [Raw Ai
 
 If you scroll down, you will come across a selection for the type of pollutant followed by a button stating "Download this Data (CSV Format)." Select this option to access the raw data.
 
-Alternatively, the raw data is available in our Git Repository through "Datasets" -> "Environmental_Data" -> "Raw_Data" -> "airQuality.csv"
+Alternatively, the raw data is available in our teams by navigating to "Datasets" -> "Environmental_Data" -> "Raw_Data" -> "airQuality.csv"
 If you want to run through the cleaning process, we recommend downloading the raw file from our Repository. This will ensure that the file name is correct. If you want to download the raw data from the website you can, just make sure you rename the file to "airQuality.csv". This is needed for the Jupyter Notebook to run error free.
 
 **Cleaning and Manipulation**
 
-*Note that this step is optional, as the cleaned data is already accessible through our Git Repository by navigating to "Datasets" -> "Environmental_Data" -> "Cleaned_Data" -> "gr_air_quality_2.csv" and downloading the csv from there.
+*Note that this step is optional, as the cleaned data is already accessible through our teams channel by navigating to "Datasets" -> "Environmental_Data" -> "Cleaned_Data" -> "gr_air_quality_2.csv" and downloading the csv from there.
 
 If you would like to follow along in the process, you will need 2 files:
 
