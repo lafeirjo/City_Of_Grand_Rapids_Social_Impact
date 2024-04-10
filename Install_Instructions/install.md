@@ -33,15 +33,21 @@
 
 7. You will be taken to the Jupyter Notebook screen, which will open in your browser, displaying all the files in your environment.
 
-8. From here you can run our demo code by following the steps below.
+8. From here you can access the demo code directory by:
 
    a. Click on ‘Install_Instructions’.
 
    b. Click on ‘Demo_Code’.
-     
-   c. Click on ‘Health_Data_Sandbox.ipynd’ this is our demo code.
-    
-   d. Once you've opened our demo code, click on run in the top left corner and select run all cells. This will run the entire demo code on your device.
+
+9. Now, we are going to grab all of the necessary data from the teams file in order for the code to run properly.
+
+   a. Start by navigating to the 'Datasets' folder, followed by 'Income_Data'
+
+   b. You then will want to copy the 'Raw_Data' folder, which we will then paste into the demo code directory.
+
+   c. Finally, you will move the 'DemoCode.ipynb' into the 'Raw_Data' folder, followed by navigating into the folder.
+
+10. Now that you have all the necessary data, you can now open the 'DemoCode.ipynb' and run through our demo code.
    
 **For Setting up PowerBI**
 The following set of instructions have been grabbed from the official Microsoft store website: 
