@@ -27,15 +27,17 @@
    
 4. Setting up the correct environment.
 
-   a. Paste the following code below into your conda environment
+   a. Going back to the command line, make sure you are still in the same directory as where we left off.
+
+   b. Paste the following code below into your conda environment
 
          conda env create --prefix ./envs --file environment.yml
    
-   b. Once the terminal finishes processing the above command, paste the below code
+   c. Once the terminal finishes processing the above command, paste the below code
 
          conda activate ./envs
 
-5. After the environment finishes setting up, copy and paste the following cell to open a JupyterLab tab
+6. After the environment finishes setting up, copy and paste the following cell to open a JupyterLab tab
 
         Jupyter Notebook
 
