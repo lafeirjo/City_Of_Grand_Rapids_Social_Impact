@@ -6,18 +6,26 @@
 **For setting up the Jupyter Notebook Environment**
 1. With Anaconda, clone the City of Grand Rapids GitHub using the following link:    [GitHub Repository](https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact/tree/main)
 
-   a. In your command line change to whatever directory you would like to clone our repository. You can use the cd command to change directories.
+   a. When going to clone the directory, it is easiest to copy it right onto your desktop for easy access in future steps.
    
-   b. Once you are in the correct directory, copy and paste the code below to clone our repository to the directory you changed to.
+   b. Once you are in the desktop, copy and paste the code below to clone our repository to the directory you changed to.
    
          git clone https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact.git
    
    c. Once your repository is cloned, run the command below to move you into the directory that you just cloned.
 
          cd "City_Of_Grand_Rapids_Social_Impact
+
+2. Retrieving all the demo code data:
+
+   a. Moving away from the command line, you want to start by navigating to the actual folder cloned onto the desktop. Navigate into 'Install_Instructions' -> 'Demo_Code'
+
+   b. Next, we shift to the teams folder, where in the 'Datasets' folder, you will find a folder called 'Demo_Code_Data'. Copy this folder and paste it into the 'Demo_Code' folder in the repository.
+
+   c. Finally, take the 'DemoCode.ipynb' file and move that into the 'Demo_Code_Data' folder.
          
    
-3. Setting up the correct environment.
+4. Setting up the correct environment.
 
    a. Paste the following code below into your conda environment
 
@@ -39,15 +47,9 @@
 
    b. Click on ‘Demo_Code’.
 
-9. Now, we are going to grab all of the necessary data from the teams file in order for the code to run properly.
+   c. Click on 'Demo_Code_Data'
 
-   a. Start by navigating to the 'Datasets' folder, followed by 'Income_Data'
-
-   b. You then will want to copy the 'Raw_Data' folder, which we will then paste into the demo code directory.
-
-   c. Finally, you will move the 'DemoCode.ipynb' into the 'Raw_Data' folder, followed by navigating into the folder.
-
-10. Now that you have all the necessary data, you can now open the 'DemoCode.ipynb' and run through our demo code.
+   d. Open the 'DemoCode.ipynb' file, which you can now run with all correct installations and data files.
    
 **For Setting up PowerBI**
 The following set of instructions have been grabbed from the official Microsoft store website: 
