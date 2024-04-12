@@ -20,7 +20,7 @@
 
    a. Moving away from the command line, you want to start by navigating to the folder cloned onto your desktop. Find the City_Of_GRand_Rapids_Social_Impact folder you cloned above on your local device. From there navigate into 'Install_Instructions' folder and then the 'Demo_Code' folder. 
 
-   b. Next, we shift to the teams folder https://teams.microsoft.com/_?culture=en-us&country=us#/school/FileBrowserTabApp/Grand_Rapids?threadId=19:827af14d3a2d40d2880f29851476e82e@thread.tacv2&ctx=channel. 
+   b. Next, we shift to the teams [link](https://teams.microsoft.com/_?culture=en-us&country=us#/school/FileBrowserTabApp/Grand_Rapids?threadId=19:827af14d3a2d40d2880f29851476e82e@thread.tacv2&ctx=channel). 
    
    c. In this teams folder, click the 'Datasets' folder. There you will find a folder called 'Demo_Code_Data'. 
    
