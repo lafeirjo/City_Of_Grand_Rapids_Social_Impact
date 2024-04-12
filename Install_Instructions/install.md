@@ -14,20 +14,24 @@
    
    c. Once your repository is cloned, run the command below to move you into the directory that you just cloned.
 
-         cd "City_Of_Grand_Rapids_Social_Impact
+         cd "City_Of_Grand_Rapids_Social_Impact"
 
 2. Retrieving all the demo code data:
 
-   a. Moving away from the command line, you want to start by navigating to the actual folder cloned onto the desktop. Navigate into 'Install_Instructions' -> 'Demo_Code'
+   a. Moving away from the command line, you want to start by navigating to the folder cloned onto your desktop. Find the City_Of_GRand_Rapids_Social_Impact folder you cloned above on your local device. From there navigate into 'Install_Instructions' folder and then the 'Demo_Code' folder. 
 
-   b. Next, we shift to the teams folder, where in the 'Datasets' folder, you will find a folder called 'Demo_Code_Data'. Copy this folder and paste it into the 'Demo_Code' folder in the repository.
-
-   c. Finally, take the 'DemoCode.ipynb' file and move that into the 'Demo_Code_Data' folder.
+   b. Next, we shift to the teams folder https://teams.microsoft.com/_?culture=en-us&country=us#/school/FileBrowserTabApp/Grand_Rapids?threadId=19:827af14d3a2d40d2880f29851476e82e@thread.tacv2&ctx=channel. 
+   
+   c. In this teams folder, click the 'Datasets' folder. There you will find a folder called 'Demo_Code_Data'. 
+   
+   d. If you hover over the 'Demo_Code_Data' folder, there will be three dots '...' that show up on the right. Clicking those dots will open up more options. Click 'Download' in the more options. This downloaded this folder to your local device. 
+   
+   e. Copy this folder and paste it into the 'Demo_Code' folder in the repository you cloned to your local device.
          
    
 4. Setting up the correct environment.
 
-   a. Going back to the command line, make sure you are still in the same directory as where we left off.
+   a. Going back to the anaconda command line, make sure you are still in the same directory as where we left off.
 
    b. Paste the following code below into your conda environment
 
@@ -37,7 +41,7 @@
 
          conda activate ./envs
 
-6. After the environment finishes setting up, copy and paste the following cell to open a JupyterLab tab
+6. After the environment finishes setting up, copy and paste the following command. This will open open a JupyterLab tab.
 
         Jupyter Notebook
 
@@ -49,9 +53,9 @@
 
    b. Click on ‘Demo_Code’.
 
-   c. Click on 'Demo_Code_Data'
+   c. Open the 'DemoCode.ipynb' file, which you can now run with all correct installations and data files.
 
-   d. Open the 'DemoCode.ipynb' file, which you can now run with all correct installations and data files.
+   d. At the top click "Run" and then "Run All Cells". This will run the whole notebook for you. 
    
 **For Setting up PowerBI**
 The following set of instructions have been grabbed from the official Microsoft store website: 
