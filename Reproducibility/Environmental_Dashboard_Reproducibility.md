@@ -31,7 +31,7 @@ If you would like to follow along in the process, you will need 2 files:
 1. The raw data csv found in the introduction
 2. The Jupyter Notebook containing the code for cleaning.
 
-The Jupyter Notebook can be found here for download: [Air_Quality.ipynb](https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact/blob/main/Datasets/Environmental_Data/Raw_Data/Air_Quality.ipynb)
+The Jupyter Notebook can be found here for download: [Air_Quality.ipynb](Data_Cleaning/Air_Quality.ipynb)
 
 From here, as long as the 2 files are located in the same directory, you can hit "Run All" on the notebook and it will export the same "gr_air_quality_2.csv" csv file from our Git Repository.
 
