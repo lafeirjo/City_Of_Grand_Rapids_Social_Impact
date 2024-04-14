@@ -4,7 +4,7 @@
 
 Git Repository Link: [GitHub Repository](https://github.com/lafeirjo/City_Of_Grand_Rapids_Social_Impact/tree/main)
 
-For this assignment, we will be going over how to reproduce one of the visuals that is contained within the environmental metrics dashboard, specifically regarding the air quality data. There are a few primary steps that will be discusssed:
+For this assignment, we will be going over how to reproduce the environmental metrics dashboard, as well as one of the visuals that is contained within the dashboard, specifically regarding the air quality data. There are a few primary steps that will be discusssed:
 
 1. Where the raw data source came from
 2. The cleaning/manipulation process through a Jupyter Notebook
