@@ -18,9 +18,7 @@ If the required software and dependencies are needed to be installed, I point yo
 **Finding the Data**
 
 1. Navigate to our teams folder
-2. Once you are there follow this path 'Datasets' --> 'Income_Data' --> 'Clean_Data'. This will get you to the folder that holds 'GR_median_salary.csv'
-3. If you hover over that file three dots '...' will apear to the right. Right click on those dots. This will bring up more options
-4. In the more options click 'Download'. This will download the file to your local device
+2. Once you are there follow this path 'Datasets' --> 'Income_Data' --> 'Clean_Data'. This will get you to the folder that holds 'GR_median_salary.csv' and the rest of the data used in this dashboard.
 
 **Importing the Data**
 
@@ -29,6 +27,7 @@ If the required software and dependencies are needed to be installed, I point yo
 3. This will pull up a list of file types. Click on 'Text/CSV'
 4. This will pull up the file explorer for your device. Find where you downloaded the 'GR_median_salary.csv" file. Click on that file
 5. Then click 'Open'. Finally click 'Load'
+6. If the dashboard is having issues, you can use the steps above to import the rest of the data, as well.
 
 **Creating the Visual**
 
