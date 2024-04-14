@@ -7,9 +7,9 @@ a combination of all available data sources to build an interactive reporting to
 for the purposes of understanding social impacts, improving public safety, and
 providing a good measure of effect of governmental policy on Grand Rapids.
 
-The repository will host all of our visualizations, code, and datasets for our project.
+The repository hosts all of our visualizations/dashboards, as well as any code we may have used in order to clean our data
 
-Within the repository, we have everything somebody may need to run through our full project,
+Within the repository, we have everything (outside of data) somebody may need to run through our full project,
 including instructions for installing all the proper software, our final product PowerBI dashboards,
 and instructions regarding reproducibility of the whole project.
 
@@ -24,29 +24,19 @@ The datasets will contain information in relation to, but are not limited to:
 
 **The members that will carry out this project are as follows:**
 
-Joey LaFeir
-
-Aniessa Terpstra
-
-Jimmy Gray Jones
-
-Kelsey Lane
-
-Alex Logan
+Joey LaFeir, Aniessa Terpstra, Jimmy Gray Jones, Kelsey Lane, Alex Logan
 
 **Under the supervision of:**
 
-Professor Dirk Colbry
-
-Teaching Assistant Henry Fessler
+Professor Dirk Colbry, Teaching Assistant Henry Fessler
 
 **In collaboration with:**
 
-Eric Shannon (City of Grand-Rapids Contact)
-
-Jonathan Oeverman (City of Grand-Rapids Contact)
+Eric Shannon (City of Grand-Rapids Contact), Jonathan Oeverman (City of Grand-Rapids Contact)
 
 **Link to Project Plan Storyboard:**
+
+This storyboard goes over our initial plan for approaching the project and how we planned to complete our goals.
 
 [Project Plan Presentation](https://mediaspace.msu.edu/media/City_GR-CMSE495_Plan_Presentation_Video/1_nhdhozse)
 
@@ -58,11 +48,15 @@ All of our install instructions and related demo code is in the 'Install Instruc
 
 **Link to Minimum Viable Product Presentation and Demo:**
 
+This video goes over our progress through the middle of the semester, what we ended up accomplishing, what we changed, and how we planned to finish the rest of the project.
+
 [Minimal Viable Product Presentation](https://mediaspace.msu.edu/media/City_Of_GrandRapids-CMSE495_MVP_Presentation_Video/1_0sno60na)
 
 **Reproducibility Instructions**
 
-[Reproducibility Instructions](/Install_Instructions/Reproducibility.md)
+For reproducing the results of our dashboards, we have created reproducubility instructions for each report with how to clean the data and import the data into Power BI (as necessary)
+
+[Reproducibility Instructions](Reproducibility)
 
 
 
