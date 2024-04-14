@@ -18,8 +18,9 @@ If the required software and dependencies are needed to be installed, I point yo
 **Finding the Data**
 
 1. Navigate to our teams folder
-2. Once you are there follow this path 'Datasets' --> 'Income_Data' --> 'Clean_Data'. This will get you to the folder that holds 'GR_median_salary.csv' 3. If you hover over that file three dots '...' will apear to the right. Right click on those dots. This will bring up more options
-3. In the more options click 'Download'. This will download the file to your local device
+2. Once you are there follow this path 'Datasets' --> 'Income_Data' --> 'Clean_Data'. This will get you to the folder that holds 'GR_median_salary.csv'
+3. If you hover over that file three dots '...' will apear to the right. Right click on those dots. This will bring up more options
+4. In the more options click 'Download'. This will download the file to your local device
 
 **Importing the Data**
 
