@@ -58,5 +58,10 @@ For reproducing the results of our dashboards, we have created reproducubility i
 
 [Reproducibility Instructions](Reproducibility)
 
+**Final Presentation Video**
+This video is for those who want a more in depth view of the project and deliverables created. It gives an overview of the work done to create this project as well as brief introductions to the final PowerBI dashboards. 
+
+[Final Project Presentation](https://mediaspace.msu.edu/media/City_Of_Grand_Rapids_Final_Stroyboard_Presntation/1_1xu4tl25)
+
 
 
